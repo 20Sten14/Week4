@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\Titpe21\\Week4\\NumberGuesser\\NumberGuesser\\NumberGuesser.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\Titpe21\\Calculator\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\Titpe21\\Week4\\NumberGuesser\\NumberGuesser\\NumberGuesser.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\Titpe21\\Calculator\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Titpe21\\Week4\\NumberGuesser\\NumberGuesser\\NumberGuesser.csproj",
-        "projectName": "NumberGuesser",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\Titpe21\\Week4\\NumberGuesser\\NumberGuesser\\NumberGuesser.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Titpe21\\Calculator\\Calculator\\Calculator.csproj",
+        "projectName": "Calculator",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\Titpe21\\Calculator\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\Titpe21\\Week4\\NumberGuesser\\NumberGuesser\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\Titpe21\\Calculator\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
