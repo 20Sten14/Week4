@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\Titpe21\CakeMakeing\CakeMakeing\obj\Debug\netcoreapp3.1\CakeMakeing.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Titpe21\CakeMakeing\CakeMakeing\obj\Debug\netcoreapp3.1\CakeMakeing.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Titpe21\CakeMakeing\CakeMakeing\obj\Debug\netcoreapp3.1\CakeMakeing.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Titpe21\CakeMakeing\CakeMakeing\bin\Debug\netcoreapp3.1\CakeMakeing.exe
+C:\Users\opilane\source\repos\Titpe21\CakeMakeing\CakeMakeing\bin\Debug\netcoreapp3.1\CakeMakeing.deps.json
+C:\Users\opilane\source\repos\Titpe21\CakeMakeing\CakeMakeing\bin\Debug\netcoreapp3.1\CakeMakeing.runtimeconfig.json
+C:\Users\opilane\source\repos\Titpe21\CakeMakeing\CakeMakeing\bin\Debug\netcoreapp3.1\CakeMakeing.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Titpe21\CakeMakeing\CakeMakeing\bin\Debug\netcoreapp3.1\CakeMakeing.dll
+C:\Users\opilane\source\repos\Titpe21\CakeMakeing\CakeMakeing\bin\Debug\netcoreapp3.1\CakeMakeing.pdb
+C:\Users\opilane\source\repos\Titpe21\CakeMakeing\CakeMakeing\obj\Debug\netcoreapp3.1\CakeMakeing.dll
+C:\Users\opilane\source\repos\Titpe21\CakeMakeing\CakeMakeing\obj\Debug\netcoreapp3.1\CakeMakeing.pdb
+C:\Users\opilane\source\repos\Titpe21\CakeMakeing\CakeMakeing\obj\Debug\netcoreapp3.1\CakeMakeing.genruntimeconfig.cache
